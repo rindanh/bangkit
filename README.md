@@ -7,4 +7,4 @@ This project use  ML techniques explained in the [Machine Learning Crash Course]
 
 For this project, we are trying to predict whether someone has a potential of having heart attack disease, framing the problem as binary classification.
 
-The dataset is provided by `https://www.kaggle.com/sulianova/cardiovascular-disease-dataset`
+The dataset used is from [Cardiovascular Disease dataset](https://www.kaggle.com/sulianova/cardiovascular-disease-dataset) that consist of 70k records of patients data with 11 features + target
